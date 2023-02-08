@@ -1,0 +1,56 @@
+.logo {
+    width: 5rem;
+    height: 5rem;
+}
+
+.nav-item {
+    list-style: none;
+    /* color: rgb(230, 225, 225); */
+
+}
+
+.linkkk {
+    list-style: none;
+}
+.about {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.about:hover {
+    /* border: 1px solid rgb(11, 73, 145); */
+    border-radius: 0.5rem;
+    /* background: rgb(74, 167, 243); */
+    color: aquamarine;
+}
+.home:hover {
+    /* border: 1px solid rgb(11, 73, 145); */
+    border-radius: 0.5rem;
+    /* background: rgb(74, 167, 243); */
+    padding: 0.5rem;
+    color: rgb(62, 151, 202);
+}
+
+.dropdown-menu{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding: 2rem;
+}
+
+.dropdown-menu li{
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.dropdown-menu li:hover{
+    font-weight: bolder;
+    font-size: 14px;
+    /* color: rgb(33, 197, 226); */
+    /* background: rgb(149, 193, 243); */
+    border-radius: 1rem solid;
+    color: white;
+}

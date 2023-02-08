@@ -1,0 +1,19 @@
+.caro {
+    max-height: 27rem;
+    padding-top: 2rem;
+}
+.heedd {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: #009DB9;
+}
+
+.projectss {
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    /* color:#009DB9 ; */
+    /* #00596A */
+    /* #001924 */
+}
