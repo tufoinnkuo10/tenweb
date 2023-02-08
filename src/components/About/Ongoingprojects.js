@@ -63,7 +63,7 @@ export default function Ongoingprojects() {
                 data-bs-parent="#accordionFlushExample"
               >
                 <div class="accordion-body">
-                  information about the projecthe <code>.accordion-flush</code>{" "}
+                  information about the projec the <code>.accordion-flush</code>{" "}
                   class. information about the projectn body. Let's imagine this
                   being filled with some actual content.
                 </div>
@@ -131,15 +131,15 @@ export default function Ongoingprojects() {
                 <div class="carousel-item active">
                   <img src={bios} class="d-block w-100" alt="..." />
                   <div class="carousel-caption d-none d-md-block">
-                    <h5 style={{color:'black'}}>Bioss...</h5>
-                    <p style={{color:'black'}}>info about bios</p>
+                    <h5 style={{color:'black'}}>Finex...</h5>
+                    <p style={{color:'black'}}>info about finex</p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img src={minerva} class="d-block w-100" alt="..." />
                   <div class="carousel-caption d-none d-md-block">
-                    <h5 style={{color:'blue'}}>Minerva</h5>
-                    <p style={{color:'blue'}}>info of minerva</p>
+                    <h5 style={{color:'blue'}}>camermarket</h5>
+                    <p style={{color:'blue'}}>info of camermarket</p>
                   </div>
                 </div>
               </div>

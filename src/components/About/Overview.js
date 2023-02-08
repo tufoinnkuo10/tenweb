@@ -136,7 +136,7 @@ const Overview = () => {
             </div>
           </div>
           <p style={{ color: "#009DB9",fontWeight:'bolder', fontSize:'2rem' }}>
-            Our vision is to Empower Africa SMEs Through Digitization
+            Our vision is to Empower Cameroons SMEs Through Digitization
           </p>
         </div>
         <div className="Mission-objectives" style={{ margin: "10rem" }}>
@@ -198,7 +198,7 @@ const Overview = () => {
             }}
           >
             <h1>Locations: </h1>
-            <span>Kigali, Rwanda</span>
+            <span>Cameroon, yaounde</span>
             <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" />
             <span>Douala, Cameroon</span>
             <Avatar alt="Travis Howard" src="/static/images/avatar/2.jpg" />
