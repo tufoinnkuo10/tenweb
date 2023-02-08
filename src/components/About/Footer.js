@@ -15,7 +15,7 @@ export default function Footer() {
       <section className="linkline">
         <div className="contactus">
           <h1>Contact Us</h1>
-          <a href="contact@izsofwares.com">contact@izsofwares.com</a>
+          <a href="contact@izsofwares.com">contact@TENweb.com</a>
         </div>
         <div className="followus">
             <h2>Follow us</h2>
@@ -37,7 +37,7 @@ export default function Footer() {
       </section>
       <div className="centerline">
         <h2>
-          Copyright © 2022 IZSoftwares Construction Page. All Rights Reserved.
+          Copyright © 2022 TENweb Construction Page. All Rights Reserved.
         </h2>
       </div>
     </div>

@@ -101,7 +101,7 @@ const Nav = () => {
                         to="/whyiz"
                         style={{ textDecoration: "none", fontSize: "1.5rem" }}
                       >
-                        Why Iz
+                        Why TENWEB
                       </Link>
                     </li>
                     <li>
